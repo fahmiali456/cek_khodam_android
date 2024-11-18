@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">project My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tiger_image_desc">Gambar Harimau</string>
+    <string name="forest_image_desc">Gambar Hutan</string>
+    <string name="guru_tiger_image_desc">Gambar Guru dan Harimau</string>
+</resources>
