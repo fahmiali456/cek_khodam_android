@@ -40,18 +40,28 @@ Kontributor
 Nama Anda - Pengembang aplikasi.
 
 berikut gambar tampilan aplikasi cek khodam
+
 ![HAL 1](https://github.com/user-attachments/assets/36cf080b-4f51-42d4-beb0-9de8ff1d554c)
 
 untuk halaman pendaftaran dan login seperti gambar berikut:
+
 ![LOGIN AKUN](https://github.com/user-attachments/assets/ed1b0f6e-7e61-4420-baa1-005c6294e9cf)
+
 ![hal 3](https://github.com/user-attachments/assets/a4aa8333-b11f-4a59-aeae-05f16dfe623b)
+
 untuk gambar pengenalasn sambutan pengantar apliaksi seperti berikut:
 ![HAL4](https://github.com/user-attachments/assets/29ee91d9-6ce1-4180-8be6-334f31e62c29)
+
 ![hal 5](https://github.com/user-attachments/assets/89301274-9100-4420-97a3-4df916257187)
+
 ![hal 6](https://github.com/user-attachments/assets/eace5841-ca80-4b58-b350-d0e77c43c3b2)
+
 ketika sudah ada halaman ini maka user mengisinya:
+
 ![hal7](https://github.com/user-attachments/assets/9fdf4eb7-2829-4ffd-b415-4aff3bd3c1be)
+
 dengan hasil serch oleh apliaksi maka menghasilkan gambar seperti ini:
+
 ![hal8](https://github.com/user-attachments/assets/09602876-d7c2-4fe2-ac27-3f09d10f079a)
 
 terimakasih
